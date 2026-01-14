@@ -1,0 +1,19 @@
+{
+  "channel_pairs": [
+    {
+      "source": "@ngs_news",
+      "target": "@nsk0nline",
+      "name": "Новосибирск"
+    },
+    {
+      "source": "@spblive",
+      "target": "@spb0nline",
+      "name": "Санкт-Питербург"
+    },
+    {
+      "source": "@moscowach", 
+      "target": "@msk0nline",
+      "name": "Москва"
+    }
+  ]
+}
