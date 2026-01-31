@@ -9,16 +9,16 @@ from telethon.tl.types import DialogFilter
 import os
 
 try:
-    os.remove('SPB_razoslat.session-journal')
+    os.remove('MSK_razoslat.session-journal')
 except Exception:
     pass
 
-api_id = 24485067  # Ваш api_id
-api_hash = 'a9548b05b3a2ac1c43ef157c90a83b54'  # Ваш api_hash
-session_name = 'SPB_razoslat'
+api_id = 38450983  # Ваш api_id
+api_hash = 'ae38cd298bfe81d26249057e3545b77c'  # Ваш api_hash
+session_name = 'MSK_razoslat'
 client = TelegramClient(session_name, api_id, api_hash)
 
-message_text = "Взаимная подписка на каналы. В лс!"
+message_text = "ВЗ подписка на тгк. Пишите в лс!"
 
 # Дополнительный вариант с обработкой разных типов диалогов:
 

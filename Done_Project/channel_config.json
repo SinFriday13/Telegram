@@ -1,20 +1,14 @@
 {
   "channel_pairs": [
     {
-      "source": "-1001096776982",
-      "target": "-1003570660322",
-      "name": "Новосибирск",
-      "username": "ngs_news"
-    },
-    {
       "source": "-1002412684340",
       "target": "-1003599072741",
       "name": "Санкт-Питербург",
       "username": "spblive"
     },
     {
-      "source": "-1001288481277", 
-      "target": "-1003541916075",
+      "source": "-1001288481277",
+      "target": "-1002873921635",
       "name": "Москва",
       "username": "moscowach"
     }
